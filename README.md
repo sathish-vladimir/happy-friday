@@ -1,4 +1,4 @@
-# IIS Mobile Application (Pranic Healing Sanctuary)
+# Mobile Application (Pranic Healing Sanctuary)
 
 A Flutter meditation/wellness app built for the Indo Sakura Software Pvt Ltd
 Flutter Practical Assignment. It replicates the provided Figma design and

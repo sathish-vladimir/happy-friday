@@ -12,17 +12,6 @@
 
 
 
-
-# Mobile Application (Pranic Healing Sanctuary)
-
-A Flutter meditation/wellness app built for the Indo Sakura Software Pvt Ltd
-Flutter Practical Assignment. It replicates the provided Figma design and
-implements Firebase-backed authentication, a Firestore + local-cache data
-layer, and Riverpod state management, following a clean, feature-based
-architecture.
-
----
-
 ## 1. Tech Stack & Packages Used
 
 | Package | Why it's used |

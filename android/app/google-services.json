@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "537418498095",
+    "project_id": "fir-bcd7a",
+    "storage_bucket": "fir-bcd7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537418498095:android:69c5a1dd75c1acd0e486da",
+        "android_client_info": {
+          "package_name": "com.example.happy_friday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537418498095-58ocodsgu0l235dai4ckhooj5sddg4p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happy_friday",
+            "certificate_hash": "d4213864ba4bb1bac2c328131f4f268fe46b10fd"
+          }
+        },
+        {
+          "client_id": "537418498095-eap77v33pho7rj4qor567mah1qk2a4g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGX9dxIekrBGwIdVQ3UZsJlou6sDKzQjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537418498095-eap77v33pho7rj4qor567mah1qk2a4g9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537418498095-kvvgbjh0i4ba9s4s8kn9bc6ps90rc3n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

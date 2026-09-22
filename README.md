@@ -1,3 +1,6 @@
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2f376463-7a5f-4ff3-856b-c96ad6f7bf10" />
+
 # Mobile Application (Pranic Healing Sanctuary)
 
 A Flutter meditation/wellness app built for the Indo Sakura Software Pvt Ltd
